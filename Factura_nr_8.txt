@@ -1,0 +1,5 @@
+Factura 8
+Cumparator: name1
+Produs: name4
+Pret/buc: 8.9   Cantitate: 5
+Pret total: 44.5

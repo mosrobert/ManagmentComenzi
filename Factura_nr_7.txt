@@ -1,0 +1,5 @@
+Factura 7
+Cumparator: name1
+Produs: name1
+Pret/buc: 1.2   Cantitate: 1
+Pret total: 1.2
